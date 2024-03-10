@@ -5,5 +5,4 @@ The JSONsplitter is a generic file written to be even used in Windows.
 
 
 to run this type 
-
-###'streamlit run rag_chatbot_app.py'
+'streamlit run rag_chatbot_app.py'
